@@ -2,6 +2,7 @@
 
 ### About Me
 I am Wen Denverlee Felix, a BS Information Technology student specializing in Network Infrastructure and Cisco Networking, with a solid foundation in data engineering and application development. I thrive on troubleshooting complex technical problems, configuring reliable networks, and integrating robust databases to support seamless digital systems. Through my coursework and hands-on lab projects, I continue to sharpen my networking skills while building practical, user-focused IT solutions.
+
 ---
 
 ### 🎓 Education
