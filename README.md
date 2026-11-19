@@ -36,7 +36,7 @@ I am Wen Denverlee Felix, a BS Information Technology student specializing in Ne
 * **Student Information System:** Implemented secure CRUD operations to add, edit, and retrieve structured student records, optimizing enrollment and grade management workflows.
 * **E-Commerce Perfume Platform:** Built a fully responsive web application featuring product filtering, shopping cart functionality, and seamless order placement workflows.
 * **Library Management System:** Created a digital ecosystem for tracking book inventory, managing lending records, and calculating automated fines.
-* * **SeatSense – IoT-Based Smart Public Seating Availability and Reservation System:** Developed an IoT-based solution using ESP32 and occupancy sensors to monitor seat availability, manage reservations, and provide real-time seating status updates for public spaces such as libraries and food courts.
+* **SeatSense – IoT-Based Smart Public Seating Availability and Reservation System:** Developed an IoT-based solution using ESP32 and occupancy sensors to monitor seat availability, manage reservations, and provide real-time seating status updates for public spaces such as libraries and food courts.
 
 ---
 
