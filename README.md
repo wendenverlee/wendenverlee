@@ -1,14 +1,13 @@
 # Hi there, I'm Wen Denverlee Felix! 👋
 
 ### About Me
-I am Wen Denverlee Felix, an IT professional with a strong foundation in programming, application development, data engineering, and network infrastructure. I thrive on tackling complex technical problems, integrating robust databases, and crafting elegant, user-focused digital solutions. My journey in tech reached its peak during my BS Information Technology program, where I specialized in software systems, data analytics, and Networking (Cisco).
-
+I am Wen Denverlee Felix, a BS Information Technology student specializing in Network Infrastructure and Cisco Networking, with a solid foundation in data engineering and application development. I thrive on troubleshooting complex technical problems, configuring reliable networks, and integrating robust databases to support seamless digital systems. Through my coursework and hands-on lab projects, I continue to sharpen my networking skills while building practical, user-focused IT solutions.
 ---
 
 ### 🎓 Education
 * **BS Information Technology**
 * New Era University
-* *2022 - 2026*
+* *2022 - Present*
 
 ---
 
@@ -19,9 +18,13 @@ I am Wen Denverlee Felix, an IT professional with a strong foundation in program
 
 ### 🛠️ Skill Sets
 * **Programming & Languages:** Python, JavaScript, Dart, SQL
-* **Frameworks & Libraries:** React, Vite, Tailwind CSS, Flutter, MERN Stack, NumPy
-* **Databases, Cloud & Analytics:** Supabase, IBM DB2 Cloud, MongoDB, Tableau, Pentaho Data Integration
-* **Networking, Tools & Platforms:** Vercel, Cisco Packet Tracer, Cisco Networking Fundamentals, VS Code, PyCharm
+* **Networking & Infrastructure:** Cisco Networking Fundamentals, Cisco Packet Tracer, Network Configuration, Network Troubleshooting, Data Communications and Networking
+* **Cybersecurity & Information Assurance:** OWASP Top 10, Encryption Fundamentals, Vulnerability Assessment, Web Application Security Testing (DVWA, XSS)
+* **IoT & Hardware Integration:** IoT Prototyping, Sensor Integration, Smart Kiosk Systems, Seat Reservation and Crowd Management Systems
+* **Programming Languages:** Python, JavaScript, Dart, SQL
+* **Frameworks, Libraries & Technologies:** React, Vite, Flutter, Tailwind CSS, MERN Stack, RESTful API Development, NumPy
+* **Databases, Cloud & Data Analytics:** Supabase, MongoDB, IBM Db2 Cloud, Tableau, Pentaho Data Integration (PDI)
+* **Development Tools & Platforms:** Git, GitHub, Visual Studio Code, PyCharm, Vercel
 
 ---
 
@@ -32,6 +35,7 @@ I am Wen Denverlee Felix, an IT professional with a strong foundation in program
 * **Student Information System:** Implemented secure CRUD operations to add, edit, and retrieve structured student records, optimizing enrollment and grade management workflows.
 * **E-Commerce Perfume Platform:** Built a fully responsive web application featuring product filtering, shopping cart functionality, and seamless order placement workflows.
 * **Library Management System:** Created a digital ecosystem for tracking book inventory, managing lending records, and calculating automated fines.
+* * **SeatSense – IoT-Based Smart Public Seating Availability and Reservation System:** Developed an IoT-based solution using ESP32 and occupancy sensors to monitor seat availability, manage reservations, and provide real-time seating status updates for public spaces such as libraries and food courts.
 
 ---
 
